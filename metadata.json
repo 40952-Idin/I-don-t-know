@@ -1,0 +1,6 @@
+{
+  "name": "CampuShare",
+  "description": "A modern peer-to-peer campus rental marketplace for college students to share textbooks, electronics, apparel, and leisure items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
